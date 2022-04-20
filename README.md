@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://www.google.ru/search?q=%5B!%5BAnurag%27s+GitHub+stats%5D(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dnnigmat)%5D(https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats)&oq=%5B!%5BAnurag%27s+GitHub+stats%5D(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dnnigmat)%5D(https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats)&sourceid=chrome&ie=UTF-8
+Frontend Developer at Yandex.
 <!--
 **Nnigmat/nnigmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
